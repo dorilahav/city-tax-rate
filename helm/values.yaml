@@ -1,4 +1,4 @@
-podCount: 10
+podCount: 2
 
 route:
   host: localhost
