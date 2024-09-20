@@ -1,0 +1,28 @@
+{
+  "place_id": 371288106,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 10948967176,
+  "lat": "32.0771293",
+  "lon": "34.8226476",
+  "class": "place",
+  "type": "suburb",
+  "place_rank": 19,
+  "importance": 0.14667666666666662,
+  "addresstype": "suburb",
+  "name": "יד לבנים",
+  "display_name": "יד לבנים, רמת גן, נפת תל אביב, מחוז תל אביב, 5238303, ישראל",
+  "boundingbox": [
+    "32.0571293",
+    "32.0971293",
+    "34.8026476",
+    "34.8426476"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      34.8226476,
+      32.0771293
+    ]
+  }
+}

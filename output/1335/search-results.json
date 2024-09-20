@@ -1,0 +1,30 @@
+[
+  {
+    "place_id": 187306391,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 5547364231,
+    "lat": "32.668672",
+    "lon": "44.508267",
+    "class": "shop",
+    "type": "hardware",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "shop",
+    "name": "نعيم للأدوات",
+    "display_name": "نعيم للأدوات, طريق المحاويل, حي ١٧ تموز, المحاويل, ناحية الامام, قضاء المحاويل, محافظة بابل, العراق",
+    "boundingbox": [
+      "32.6686220",
+      "32.6687220",
+      "44.5082170",
+      "44.5083170"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        44.508267,
+        32.668672
+      ]
+    }
+  }
+]

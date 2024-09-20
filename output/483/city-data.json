@@ -1,0 +1,28 @@
+{
+  "place_id": 222437697,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 560229438,
+  "lat": "11.568271",
+  "lon": "104.9224426",
+  "class": "place",
+  "type": "city",
+  "place_rank": 15,
+  "importance": 0.5794495915342707,
+  "addresstype": "city",
+  "name": "រាជធានីភ្នំពេញ",
+  "display_name": "រាជធានីភ្នំពេញ, ខណ្ឌដូនពេញ, រាជធានីភ្នំពេញ, 120203, ព្រះរាជាណាចក្រ​កម្ពុជា",
+  "boundingbox": [
+    "11.4082710",
+    "11.7282710",
+    "104.7624426",
+    "105.0824426"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      104.9224426,
+      11.568271
+    ]
+  }
+}

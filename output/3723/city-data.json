@@ -1,0 +1,28 @@
+{
+  "place_id": 40487960,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1839146468,
+  "lat": "31.4861209",
+  "lon": "35.1650985",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.30093879814957736,
+  "addresstype": "village",
+  "name": "מעלה חבר",
+  "display_name": "מעלה חבר, שטח C, יהודה ושומרון, الأراضي الفلسطينية",
+  "boundingbox": [
+    "31.4661209",
+    "31.5061209",
+    "35.1450985",
+    "35.1850985"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.1650985,
+      31.4861209
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "place_id": 185554069,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 278477435,
+  "lat": "32.8684279",
+  "lon": "35.4238096",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.3067280415833832,
+  "addresstype": "village",
+  "name": "טפחות",
+  "display_name": "טפחות, מועצה אזורית מרום הגליל, נפת צפת, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "32.8484279",
+    "32.8884279",
+    "35.4038096",
+    "35.4438096"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.4238096,
+      32.8684279
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "place_id": 186337391,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1075774341,
+  "lat": "32.9158041",
+  "lon": "35.3726649",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.3224057754348258,
+  "addresstype": "village",
+  "name": "رأس العين",
+  "display_name": "رأس العين, מועצה אזורית משגב, נפת עכו, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "32.8958041",
+    "32.9358041",
+    "35.3526649",
+    "35.3926649"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.3726649,
+      32.9158041
+    ]
+  }
+}

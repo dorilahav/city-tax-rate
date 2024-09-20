@@ -1,0 +1,398 @@
+[
+  {
+    "place_id": 186658487,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 69024951,
+    "lat": "32.4763862",
+    "lon": "34.9599743",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, פרדס חנה-כרכור, נפת חדרה, מחוז חיפה, 3057703, ישראל",
+    "boundingbox": [
+      "32.4761643",
+      "32.4766094",
+      "34.9593035",
+      "34.9606409"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.9606409,
+          32.4761643
+        ],
+        [
+          34.9599743,
+          32.4763862
+        ],
+        [
+          34.9593035,
+          32.4766094
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 370394422,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 123457020,
+    "lat": "31.6587655",
+    "lon": "34.5857366",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, מגדל, אזור התעשיה הצפוני, אשקלון, נפת אשקלון, מחוז הדרום, 7859700, ישראל",
+    "boundingbox": [
+      "31.6582037",
+      "31.6597416",
+      "34.5850035",
+      "34.5858133"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.5850035,
+          31.6582037
+        ],
+        [
+          34.5851969,
+          31.6582401
+        ],
+        [
+          34.5853471,
+          31.6582858
+        ],
+        [
+          34.5855349,
+          31.6583771
+        ],
+        [
+          34.5856619,
+          31.658483
+        ],
+        [
+          34.585714,
+          31.6586029
+        ],
+        [
+          34.5857366,
+          31.6587655
+        ],
+        [
+          34.5857489,
+          31.6592947
+        ],
+        [
+          34.585773,
+          31.6596874
+        ],
+        [
+          34.5858133,
+          31.6597416
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 187631729,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 330920690,
+    "lat": "32.8158889",
+    "lon": "35.1158077",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, גבעת הרקפות, קרית אתא, נפת חיפה, מחוז חיפה, 2820313, ישראל",
+    "boundingbox": [
+      "32.8158889",
+      "32.8163172",
+      "35.1151042",
+      "35.1158077"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.1151042,
+          32.8163172
+        ],
+        [
+          35.1158077,
+          32.8158889
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40296107,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 64379726,
+    "lat": "31.6618077",
+    "lon": "35.1554288",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, דקל, אפרת, שטח C, יהודה ושומרון, الأراضي الفلسطينية",
+    "boundingbox": [
+      "31.6618077",
+      "31.6623429",
+      "35.1554288",
+      "35.1558415"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.1558415,
+          31.6623429
+        ],
+        [
+          35.1554288,
+          31.6618077
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40468530,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 56730711,
+    "lat": "31.0778414",
+    "lon": "35.0349473",
+    "class": "highway",
+    "type": "living_street",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, נאות הללי, נווה גן, דימונה, נפת באר שבע, מחוז הדרום, ישראל",
+    "boundingbox": [
+      "31.0770531",
+      "31.0783088",
+      "35.0349473",
+      "35.0349541"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.0349541,
+          31.0770531
+        ],
+        [
+          35.034953,
+          31.0773245
+        ],
+        [
+          35.0349473,
+          31.0778414
+        ],
+        [
+          35.0349495,
+          31.0783088
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40333541,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 95511566,
+    "lat": "31.3015752",
+    "lon": "34.6221428",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, קריית מנחם, אופקים, נפת באר שבע, מחוז הדרום, ישראל",
+    "boundingbox": [
+      "31.3015376",
+      "31.3015752",
+      "34.6221428",
+      "34.6231212"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.6221428,
+          31.3015752
+        ],
+        [
+          34.6231212,
+          31.3015376
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40146399,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 822096987,
+    "lat": "31.8505464",
+    "lon": "35.039228",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.07500999999999991,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, מבוא חורון, שטח C, יהודה ושומרון, الأراضي الفلسطينية",
+    "boundingbox": [
+      "31.8501927",
+      "31.8505464",
+      "35.0388739",
+      "35.0392280"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.039228,
+          31.8505464
+        ],
+        [
+          35.0388739,
+          31.8501927
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 369711531,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 639779683,
+    "lat": "31.0773162",
+    "lon": "35.0379536",
+    "class": "highway",
+    "type": "footway",
+    "place_rank": 27,
+    "importance": 0.07500999999999991,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, נאות הללי, נווה גן, דימונה, נפת באר שבע, מחוז הדרום, ישראל",
+    "boundingbox": [
+      "31.0773137",
+      "31.0773162",
+      "35.0376592",
+      "35.0379536"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.0379536,
+          31.0773162
+        ],
+        [
+          35.0376592,
+          31.0773137
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 369711238,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 145410875,
+    "lat": "31.2381603",
+    "lon": "34.7850161",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.07500999999999991,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, שכונה דרום, העיר העתיקה, באר-שבע, נפת באר שבע, 8426306, ישראל",
+    "boundingbox": [
+      "31.2378215",
+      "31.2383428",
+      "34.7845581",
+      "34.7851974"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.7851974,
+          31.2383428
+        ],
+        [
+          34.7850161,
+          31.2381603
+        ],
+        [
+          34.7845581,
+          31.2378215
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40129517,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 773806274,
+    "lat": "31.7891989",
+    "lon": "35.2176051",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341538796063169,
+    "addresstype": "road",
+    "name": "חגי",
+    "display_name": "חגי, כרם אברהם, גאולה, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9522901, ישראל",
+    "boundingbox": [
+      "31.7890830",
+      "31.7893039",
+      "35.2170048",
+      "35.2186019"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.2186019,
+          31.789083
+        ],
+        [
+          35.2180582,
+          31.7891429
+        ],
+        [
+          35.2176051,
+          31.7891989
+        ],
+        [
+          35.2170048,
+          31.7893039
+        ]
+      ]
+    }
+  }
+]

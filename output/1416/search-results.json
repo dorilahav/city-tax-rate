@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": 40302409,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 186485356,
+    "lat": "31.7573621",
+    "lon": "35.2197928",
+    "class": "highway",
+    "type": "service",
+    "place_rank": 27,
+    "importance": 0.04008205462729838,
+    "addresstype": "road",
+    "name": "יוכבד",
+    "display_name": "יוכבד, מחנה אלנבי, בקעה, ירושלים, נפת ירושלים, מחוז ירושלים, 9347102, ישראל",
+    "boundingbox": [
+      "31.7569850",
+      "31.7574278",
+      "35.2195687",
+      "35.2210787"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.2195687,
+          31.7574278
+        ],
+        [
+          35.2197928,
+          31.7573621
+        ],
+        [
+          35.2210787,
+          31.756985
+        ]
+      ]
+    }
+  }
+]

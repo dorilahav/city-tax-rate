@@ -1,0 +1,28 @@
+{
+  "place_id": 186365250,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 332785606,
+  "lat": "32.4046105",
+  "lon": "35.2033385",
+  "class": "place",
+  "type": "town",
+  "place_rank": 18,
+  "importance": 0.4119115709599313,
+  "addresstype": "town",
+  "name": "عرابة",
+  "display_name": "عرابة, منطقة أ, הגדה המערבית, الأراضي الفلسطينية",
+  "boundingbox": [
+    "32.3646105",
+    "32.4446105",
+    "35.1633385",
+    "35.2433385"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.2033385,
+      32.4046105
+    ]
+  }
+}

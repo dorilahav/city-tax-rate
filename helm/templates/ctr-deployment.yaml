@@ -1,0 +1,29 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: deployment-{{ .Chart.Name }}
+  namespace: {{ .Release.Name }}
+  labels:
+    app: {{ .Chart.Name }}
+spec:
+  replicas: {{ .Values.podCount }}
+  selector:
+    matchLabels:
+      app: {{ .Chart.Name }}
+  template:
+    metadata:
+      labels:
+        app: {{ .Chart.Name }}
+    spec:
+      containers:
+      - name: city-tax-rate
+        image: sha256:8b9ff5551535b55cb2d77ba9ea93b1638f3ee397bf0ce1618d2257c244ec3d3a
+        ports:
+        - containerPort: 3000
+        resources:
+          requests:
+            cpu: 1
+            memory: 30Mi
+          limits:
+            cpu: 2
+            memory: 128Mi

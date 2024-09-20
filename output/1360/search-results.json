@@ -1,0 +1,64 @@
+[
+  {
+    "place_id": 40339083,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 223180647,
+    "lat": "31.0749016",
+    "lon": "35.0299446",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05338942015716789,
+    "addresstype": "road",
+    "name": "מולדה",
+    "display_name": "מולדה, נווה דוד, נווה גן, דימונה, נפת באר שבע, מחוז הדרום, ישראל",
+    "boundingbox": [
+      "31.0746374",
+      "31.0749016",
+      "35.0296135",
+      "35.0299446"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.0299446,
+          31.0749016
+        ],
+        [
+          35.0296135,
+          31.0746374
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 39992571,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4867937789,
+    "lat": "31.2582313",
+    "lon": "34.9824198",
+    "class": "place",
+    "type": "hamlet",
+    "place_rank": 20,
+    "importance": 0.25000999999999995,
+    "addresstype": "hamlet",
+    "name": "مولدا",
+    "display_name": "مولدا, مجلس إقليمي القيصوم, ישראל",
+    "boundingbox": [
+      "31.2382313",
+      "31.2782313",
+      "34.9624198",
+      "35.0024198"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        34.9824198,
+        31.2582313
+      ]
+    }
+  }
+]

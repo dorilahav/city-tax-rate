@@ -1,0 +1,28 @@
+{
+  "place_id": 388158801,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 11873724559,
+  "lat": "32.4893868",
+  "lon": "35.5005074",
+  "class": "place",
+  "type": "suburb",
+  "place_rank": 19,
+  "importance": 0.14667666666666662,
+  "addresstype": "suburb",
+  "name": "צמרת",
+  "display_name": "צמרת, בית שאן, נפת יזרעאל, מחוז הצפון, 1080300, ישראל",
+  "boundingbox": [
+    "32.4693868",
+    "32.5093868",
+    "35.4805074",
+    "35.5205074"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.5005074,
+      32.4893868
+    ]
+  }
+}

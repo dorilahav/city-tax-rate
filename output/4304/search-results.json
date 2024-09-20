@@ -1,0 +1,308 @@
+[
+  {
+    "place_id": 186752558,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 91951312,
+    "lat": "32.832269",
+    "lon": "35.7831891",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.3304292999095745,
+    "addresstype": "village",
+    "name": "נוב",
+    "display_name": "נוב, מועצה אזורית גולן, נפת רמת הגולן, מחוז הצפון, ישראל",
+    "boundingbox": [
+      "32.8269608",
+      "32.8379155",
+      "35.7773062",
+      "35.7901081"
+    ],
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.7773062,
+            32.8345348
+          ],
+          [
+            35.7789676,
+            32.8324119
+          ],
+          [
+            35.7788832,
+            32.8323671
+          ],
+          [
+            35.7787784,
+            32.8321982
+          ],
+          [
+            35.7787509,
+            32.8320406
+          ],
+          [
+            35.7784022,
+            32.8322105
+          ],
+          [
+            35.7775506,
+            32.8318417
+          ],
+          [
+            35.7792428,
+            32.8296036
+          ],
+          [
+            35.7805295,
+            32.8273214
+          ],
+          [
+            35.7824178,
+            32.8269608
+          ],
+          [
+            35.7841,
+            32.8276745
+          ],
+          [
+            35.7865425,
+            32.8290232
+          ],
+          [
+            35.7901081,
+            32.8309921
+          ],
+          [
+            35.789679,
+            32.8323624
+          ],
+          [
+            35.7857308,
+            32.8376991
+          ],
+          [
+            35.784615,
+            32.8379155
+          ],
+          [
+            35.7833275,
+            32.837627
+          ],
+          [
+            35.7773062,
+            32.8345348
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 185624353,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 32558106,
+    "lat": "32.4258634",
+    "lon": "34.922279",
+    "class": "highway",
+    "type": "living_street",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "נוב",
+    "display_name": "נוב, ברנדייס, חדרה, נפת חדרה, מחוז חיפה, 3836120, ישראל",
+    "boundingbox": [
+      "32.4248757",
+      "32.4268660",
+      "34.9217011",
+      "34.9228484"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.9228484,
+          32.4248757
+        ],
+        [
+          34.922279,
+          32.4258634
+        ],
+        [
+          34.9221525,
+          32.4260828
+        ],
+        [
+          34.9219677,
+          32.4264034
+        ],
+        [
+          34.9217011,
+          32.426866
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 370491151,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 27100181,
+    "lat": "32.4258715",
+    "lon": "34.9225548",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "נוב",
+    "display_name": "נוב, ברנדייס, חדרה, נפת חדרה, מחוז חיפה, 3836120, ישראל",
+    "boundingbox": [
+      "32.4258634",
+      "32.4258869",
+      "34.9222790",
+      "34.9230822"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.922279,
+          32.4258634
+        ],
+        [
+          34.9225548,
+          32.4258715
+        ],
+        [
+          34.9230822,
+          32.4258869
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 186351806,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 365634081,
+    "lat": "32.989927",
+    "lon": "35.6784215",
+    "class": "highway",
+    "type": "living_street",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "נוב",
+    "display_name": "נוב, בתרא, קצרין, נפת רמת הגולן, מחוז הצפון, ישראל",
+    "boundingbox": [
+      "32.9894051",
+      "32.9902284",
+      "35.6777480",
+      "35.6788106"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.6788106,
+          32.9902284
+        ],
+        [
+          35.6784508,
+          32.9899496
+        ],
+        [
+          35.6784215,
+          32.989927
+        ],
+        [
+          35.677748,
+          32.9894051
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40163801,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1148342082,
+    "lat": "31.7817273",
+    "lon": "35.2117125",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.05341538796063169,
+    "addresstype": "road",
+    "name": "נוב",
+    "display_name": "נוב, אבו בסל (שערי ירושלים), נחלאות, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9432301, ישראל",
+    "boundingbox": [
+      "31.7816971",
+      "31.7817988",
+      "35.2115303",
+      "35.2117845"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          35.2115303,
+          31.7817988
+        ],
+        [
+          35.2117125,
+          31.7817273
+        ],
+        [
+          35.2117845,
+          31.7816971
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40308327,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 68876361,
+    "lat": "31.9847851",
+    "lon": "34.7596316",
+    "class": "highway",
+    "type": "living_street",
+    "place_rank": 26,
+    "importance": 0.0533433333333333,
+    "addresstype": "road",
+    "name": "נוב",
+    "display_name": "נוב, נווה דקלים, ראשון לציון, נפת רחובות, מחוז המרכז, 7565040, ישראל",
+    "boundingbox": [
+      "31.9842183",
+      "31.9850836",
+      "34.7590872",
+      "34.7606653"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.7606653,
+          31.9842183
+        ],
+        [
+          34.7603767,
+          31.9843766
+        ],
+        [
+          34.7596316,
+          31.9847851
+        ],
+        [
+          34.7590872,
+          31.9850836
+        ]
+      ]
+    }
+  }
+]

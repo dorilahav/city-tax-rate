@@ -1,0 +1,46 @@
+{
+  "place_id": 39814338,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 959764427,
+  "lat": "29.5619476",
+  "lon": "34.9472242",
+  "class": "highway",
+  "type": "residential",
+  "place_rank": 26,
+  "importance": 0.10000999999999993,
+  "addresstype": "road",
+  "name": "שני",
+  "display_name": "שני, הדקל, אילת, נפת באר שבע, מחוז הדרום, 8804625, ישראל",
+  "boundingbox": [
+    "29.5618992",
+    "29.5627045",
+    "34.9467210",
+    "34.9475074"
+  ],
+  "geojson": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        34.946721,
+        29.5627045
+      ],
+      [
+        34.9470898,
+        29.5618992
+      ],
+      [
+        34.9472242,
+        29.5619476
+      ],
+      [
+        34.9475074,
+        29.5620494
+      ],
+      [
+        34.9473457,
+        29.5624059
+      ]
+    ]
+  }
+}

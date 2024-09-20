@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": 186719846,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803056620,
+    "lat": "32.988357",
+    "lon": "35.319937",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "מסעף כסרא סומיע",
+    "display_name": "מסעף כסרא סומיע, 8655, כפר סומיע, מועצה אזורית מעלה יוסף, נפת עכו, מחוז הצפון, 2405918, ישראל",
+    "boundingbox": [
+      "32.9883070",
+      "32.9884070",
+      "35.3198870",
+      "35.3199870"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.319937,
+        32.988357
+      ]
+    }
+  },
+  {
+    "place_id": 185757145,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803056923,
+    "lat": "32.966258",
+    "lon": "35.304877",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "كسرى أ‘",
+    "display_name": "كسرى أ‘, 8655, כיסרא, كيسرى-كفر سميع, נפת עכו, מחוז הצפון, ישראל",
+    "boundingbox": [
+      "32.9662080",
+      "32.9663080",
+      "35.3048270",
+      "35.3049270"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.304877,
+        32.966258
+      ]
+    }
+  }
+]

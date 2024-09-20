@@ -1,0 +1,38 @@
+{
+  "place_id": 40244610,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "way",
+  "osm_id": 1208363033,
+  "lat": "31.7759275",
+  "lon": "35.2247469",
+  "class": "highway",
+  "type": "footway",
+  "place_rank": 27,
+  "importance": 0.04008205462729838,
+  "addresstype": "road",
+  "name": "יפה עיניים",
+  "display_name": "יפה עיניים, נחלת שבעה, ימין משה, ירושלים, נפת ירושלים, מחוז ירושלים, 9419008, ישראל",
+  "boundingbox": [
+    "31.7757927",
+    "31.7763060",
+    "35.2242883",
+    "35.2247552"
+  ],
+  "geojson": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        35.2247552,
+        31.7757927
+      ],
+      [
+        35.2247469,
+        31.7759275
+      ],
+      [
+        35.2242883,
+        31.776306
+      ]
+    ]
+  }
+}

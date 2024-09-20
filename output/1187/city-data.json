@@ -1,0 +1,28 @@
+{
+  "place_id": 40092472,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 4726035535,
+  "lat": "30.8117804",
+  "lon": "35.2469853",
+  "class": "place",
+  "type": "hamlet",
+  "place_rank": 20,
+  "importance": 0.2838276880810758,
+  "addresstype": "hamlet",
+  "name": "עיר אובות",
+  "display_name": "עיר אובות, מועצה אזורית הערבה התיכונה, נפת באר שבע, ישראל",
+  "boundingbox": [
+    "30.7917804",
+    "30.8317804",
+    "35.2269853",
+    "35.2669853"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.2469853,
+      30.8117804
+    ]
+  }
+}

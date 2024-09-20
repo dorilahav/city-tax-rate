@@ -1,0 +1,28 @@
+{
+  "place_id": 40458144,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1803082979,
+  "lat": "30.976166",
+  "lon": "34.738666",
+  "class": "highway",
+  "type": "bus_stop",
+  "place_rank": 30,
+  "importance": 0.00000999999999995449,
+  "addresstype": "highway",
+  "name": "רוח מדבר",
+  "display_name": "רוח מדבר, 211, מועצה אזורית רמת נגב, ישראל",
+  "boundingbox": [
+    "30.9761160",
+    "30.9762160",
+    "34.7386160",
+    "34.7387160"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      34.738666,
+      30.976166
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "place_id": 39814660,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 278476070,
+  "lat": "31.4724074",
+  "lon": "34.4982114",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.34987195748066746,
+  "addresstype": "village",
+  "name": "נחל עוז",
+  "display_name": "נחל עוז, מועצה אזורית שער הנגב, נפת אשקלון, מחוז הדרום, ישראל",
+  "boundingbox": [
+    "31.4524074",
+    "31.4924074",
+    "34.4782114",
+    "34.5182114"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      34.4982114,
+      31.4724074
+    ]
+  }
+}

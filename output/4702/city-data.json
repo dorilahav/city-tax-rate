@@ -1,0 +1,28 @@
+{
+  "place_id": 40316198,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 432295585,
+  "lat": "31.81561",
+  "lon": "35.1954938",
+  "class": "place",
+  "type": "suburb",
+  "place_rank": 19,
+  "importance": 0.4023337094656839,
+  "addresstype": "suburb",
+  "name": "רמות",
+  "display_name": "רמות, ירושלים | القدس, נפת ירושלים, מחוז ירושלים, 9773053, ישראל",
+  "boundingbox": [
+    "31.7956100",
+    "31.8356100",
+    "35.1754938",
+    "35.2154938"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.1954938,
+      31.81561
+    ]
+  }
+}

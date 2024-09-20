@@ -1,0 +1,30 @@
+[
+  {
+    "place_id": 40440086,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 4859975154,
+    "lat": "31.1685255",
+    "lon": "34.3035802",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.2980716579671534,
+    "addresstype": "village",
+    "name": "שלומית",
+    "display_name": "שלומית, מועצה אזורית אשכול, נפת באר שבע, מחוז הדרום, ישראל",
+    "boundingbox": [
+      "31.1485255",
+      "31.1885255",
+      "34.2835802",
+      "34.3235802"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        34.3035802,
+        31.1685255
+      ]
+    }
+  }
+]

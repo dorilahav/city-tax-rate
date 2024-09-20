@@ -1,0 +1,28 @@
+{
+  "place_id": 185752835,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 812224858,
+  "lat": "32.9272624",
+  "lon": "35.1772552",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.32107313109734914,
+  "addresstype": "village",
+  "name": "טל-אל",
+  "display_name": "טל-אל, מועצה אזורית משגב, נפת עכו, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "32.9072624",
+    "32.9472624",
+    "35.1572552",
+    "35.1972552"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.1772552,
+      32.9272624
+    ]
+  }
+}

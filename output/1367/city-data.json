@@ -1,0 +1,28 @@
+{
+  "place_id": 185163760,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 3812366852,
+  "lat": "37.7589798",
+  "lon": "45.9427044",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.28857098170449985,
+  "addresstype": "village",
+  "name": "غله زار",
+  "display_name": "غله زار, دهستان قاضی جهان, بخش حومه, شهرستان آذرشهر, استان آذربایجان شرقی, ایران",
+  "boundingbox": [
+    "37.7389798",
+    "37.7789798",
+    "45.9227044",
+    "45.9627044"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      45.9427044,
+      37.7589798
+    ]
+  }
+}

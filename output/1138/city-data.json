@@ -1,0 +1,28 @@
+{
+  "place_id": 186961765,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 475499382,
+  "lat": "32.8782597",
+  "lon": "35.2435683",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.3259285856241072,
+  "addresstype": "village",
+  "name": "יעד",
+  "display_name": "יעד, מועצה אזורית משגב, נפת עכו, מחוז הצפון, 2014200, ישראל",
+  "boundingbox": [
+    "32.8582597",
+    "32.8982597",
+    "35.2235683",
+    "35.2635683"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.2435683,
+      32.8782597
+    ]
+  }
+}

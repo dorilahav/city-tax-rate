@@ -1,0 +1,28 @@
+{
+  "place_id": 39917865,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 5366853461,
+  "lat": "31.4308739",
+  "lon": "35.1832962",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.31725243536262376,
+  "addresstype": "village",
+  "name": "כרמל",
+  "display_name": "כרמל, שטח C, יהודה ושומרון, الأراضي الفلسطينية",
+  "boundingbox": [
+    "31.4108739",
+    "31.4508739",
+    "35.1632962",
+    "35.2032962"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.1832962,
+      31.4308739
+    ]
+  }
+}

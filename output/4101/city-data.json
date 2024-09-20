@@ -1,0 +1,28 @@
+{
+  "place_id": 187864906,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 300163928,
+  "lat": "33.1321192",
+  "lon": "35.7773161",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.33569549296757345,
+  "addresstype": "village",
+  "name": "מרום גולן",
+  "display_name": "מרום גולן, מועצה אזורית גולן, נפת רמת הגולן, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "33.1121192",
+    "33.1521192",
+    "35.7573161",
+    "35.7973161"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.7773161,
+      33.1321192
+    ]
+  }
+}

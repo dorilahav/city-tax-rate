@@ -1,0 +1,154 @@
+[
+  {
+    "place_id": 39966490,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 60256743,
+    "lat": "30.7677164",
+    "lon": "35.2796246",
+    "class": "place",
+    "type": "village",
+    "place_rank": 19,
+    "importance": 0.3054395124350446,
+    "addresstype": "village",
+    "name": "חצבה",
+    "display_name": "חצבה, מועצה אזורית הערבה התיכונה, נפת באר שבע, מחוז הדרום, 8681500, ישראל",
+    "boundingbox": [
+      "30.7618233",
+      "30.7748943",
+      "35.2755042",
+      "35.2848202"
+    ],
+    "geojson": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            35.2755042,
+            30.7694647
+          ],
+          [
+            35.2766844,
+            30.7692527
+          ],
+          [
+            35.2758154,
+            30.7626519
+          ],
+          [
+            35.2813943,
+            30.7620619
+          ],
+          [
+            35.281522,
+            30.7624011
+          ],
+          [
+            35.2842323,
+            30.7618233
+          ],
+          [
+            35.2848202,
+            30.7635846
+          ],
+          [
+            35.2834436,
+            30.763832
+          ],
+          [
+            35.284731,
+            30.772304
+          ],
+          [
+            35.281684,
+            30.7726543
+          ],
+          [
+            35.2818986,
+            30.7743228
+          ],
+          [
+            35.2763518,
+            30.7748943
+          ],
+          [
+            35.2755042,
+            30.7694647
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 370394560,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 133491867,
+    "lat": "31.6770869",
+    "lon": "34.5806295",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חצבה",
+    "display_name": "חצבה, נווה דקלים, אשקלון, נפת אשקלון, מחוז הדרום, 7859700, ישראל",
+    "boundingbox": [
+      "31.6767005",
+      "31.6770869",
+      "34.5806295",
+      "34.5809791"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.5809791,
+          31.6767005
+        ],
+        [
+          34.5806295,
+          31.6770869
+        ]
+      ]
+    }
+  },
+  {
+    "place_id": 40415634,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 43832789,
+    "lat": "31.3266803",
+    "lon": "34.9451362",
+    "class": "highway",
+    "type": "residential",
+    "place_rank": 26,
+    "importance": 0.10000999999999993,
+    "addresstype": "road",
+    "name": "חצבה",
+    "display_name": "חצבה, מיתר, נפת באר שבע, ישראל",
+    "boundingbox": [
+      "31.3254845",
+      "31.3269935",
+      "34.9449412",
+      "34.9458811"
+    ],
+    "geojson": {
+      "type": "LineString",
+      "coordinates": [
+        [
+          34.9458811,
+          31.3254845
+        ],
+        [
+          34.9451362,
+          31.3266803
+        ],
+        [
+          34.9449412,
+          31.3269935
+        ]
+      ]
+    }
+  }
+]

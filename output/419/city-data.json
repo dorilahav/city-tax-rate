@@ -1,0 +1,28 @@
+{
+  "place_id": 40027338,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 278477056,
+  "lat": "31.470029",
+  "lon": "34.5355347",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.33380726303013564,
+  "addresstype": "village",
+  "name": "סעד",
+  "display_name": "סעד, מועצה אזורית שדות נגב, נפת באר שבע, מחוז הדרום, ישראל",
+  "boundingbox": [
+    "31.4500290",
+    "31.4900290",
+    "34.5155347",
+    "34.5555347"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      34.5355347,
+      31.470029
+    ]
+  }
+}

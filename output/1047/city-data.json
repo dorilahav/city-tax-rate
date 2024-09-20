@@ -1,0 +1,28 @@
+{
+  "place_id": 187800668,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 278473692,
+  "lat": "32.9067724",
+  "lon": "35.394977",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.308405217166498,
+  "addresstype": "village",
+  "name": "חזון",
+  "display_name": "חזון, מועצה אזורית מרום הגליל, נפת צפת, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "32.8867724",
+    "32.9267724",
+    "35.3749770",
+    "35.4149770"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.394977,
+      32.9067724
+    ]
+  }
+}

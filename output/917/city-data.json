@@ -1,0 +1,28 @@
+{
+  "place_id": 186998487,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 278475007,
+  "lat": "32.8659821",
+  "lon": "35.2512054",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.3259285856241072,
+  "addresstype": "village",
+  "name": "עצמון שגב",
+  "display_name": "עצמון שגב, מועצה אזורית משגב, נפת עכו, מחוז הצפון, 2014200, ישראל",
+  "boundingbox": [
+    "32.8459821",
+    "32.8859821",
+    "35.2312054",
+    "35.2712054"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.2512054,
+      32.8659821
+    ]
+  }
+}

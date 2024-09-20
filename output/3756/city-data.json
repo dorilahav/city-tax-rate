@@ -1,0 +1,28 @@
+{
+  "place_id": 45750679,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 1268387907,
+  "lat": "31.3919471",
+  "lon": "35.1135364",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.2924415519306157,
+  "addresstype": "village",
+  "name": "סוסיה",
+  "display_name": "סוסיה, שטח C, יהודה ושומרון, الأراضي الفلسطينية",
+  "boundingbox": [
+    "31.3719471",
+    "31.4119471",
+    "35.0935364",
+    "35.1335364"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.1135364,
+      31.3919471
+    ]
+  }
+}

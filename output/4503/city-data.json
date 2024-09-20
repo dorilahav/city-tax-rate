@@ -1,0 +1,28 @@
+{
+  "place_id": 186882798,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 728623422,
+  "lat": "33.0962822",
+  "lon": "35.7961971",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.33353273073045764,
+  "addresstype": "village",
+  "name": "עין זיוון",
+  "display_name": "עין זיוון, מועצה אזורית גולן, נפת רמת הגולן, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "33.0762822",
+    "33.1162822",
+    "35.7761971",
+    "35.8161971"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.7961971,
+      33.0962822
+    ]
+  }
+}

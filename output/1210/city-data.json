@@ -1,0 +1,28 @@
+{
+  "place_id": 186987703,
+  "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+  "osm_type": "node",
+  "osm_id": 288691435,
+  "lat": "32.8913179",
+  "lon": "35.5107113",
+  "class": "place",
+  "type": "village",
+  "place_rank": 19,
+  "importance": 0.28913902627280497,
+  "addresstype": "village",
+  "name": "כחל",
+  "display_name": "כחל, מועצה אזורית מבואות החרמון, נפת צפת, מחוז הצפון, ישראל",
+  "boundingbox": [
+    "32.8713179",
+    "32.9113179",
+    "35.4907113",
+    "35.5307113"
+  ],
+  "geojson": {
+    "type": "Point",
+    "coordinates": [
+      35.5107113,
+      32.8913179
+    ]
+  }
+}

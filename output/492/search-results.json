@@ -1,0 +1,282 @@
+[
+  {
+    "place_id": 187607910,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803007670,
+    "lat": "32.861086",
+    "lon": "35.372372",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا/ مدخل",
+    "display_name": "دير حنا/ مدخل, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8610360",
+      "32.8611360",
+      "35.3723220",
+      "35.3724220"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.372372,
+        32.861086
+      ]
+    }
+  },
+  {
+    "place_id": 187751379,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1802982278,
+    "lat": "32.862334",
+    "lon": "35.374488",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا/مدرسة",
+    "display_name": "دير حنا/مدرسة, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8622840",
+      "32.8623840",
+      "35.3744380",
+      "35.3745380"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.374488,
+        32.862334
+      ]
+    }
+  },
+  {
+    "place_id": 187798414,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1802997498,
+    "lat": "32.861555",
+    "lon": "35.361304",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "مدرسة حنا/ب االبتدائية",
+    "display_name": "مدرسة حنا/ب االبتدائية, طريق الجليل, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8615050",
+      "32.8616050",
+      "35.3612540",
+      "35.3613540"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.361304,
+        32.861555
+      ]
+    }
+  },
+  {
+    "place_id": 186505084,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803070824,
+    "lat": "32.860844",
+    "lon": "35.372958",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "مفرق دير حنا",
+    "display_name": "مفرق دير حنا, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8607940",
+      "32.8608940",
+      "35.3729080",
+      "35.3730080"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.372958,
+        32.860844
+      ]
+    }
+  },
+  {
+    "place_id": 187900157,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803051797,
+    "lat": "32.862299",
+    "lon": "35.372297",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا ز‘/مجلس محلي",
+    "display_name": "دير حنا ز‘/مجلس محلي, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8622490",
+      "32.8623490",
+      "35.3722470",
+      "35.3723470"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.372297,
+        32.862299
+      ]
+    }
+  },
+  {
+    "place_id": 186726136,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803007677,
+    "lat": "32.860999",
+    "lon": "35.372807",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا و‘/شارع رئيسي",
+    "display_name": "دير حنا و‘/شارع رئيسي, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8609490",
+      "32.8610490",
+      "35.3727570",
+      "35.3728570"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.372807,
+        32.860999
+      ]
+    }
+  },
+  {
+    "place_id": 186797629,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1802982277,
+    "lat": "32.862264",
+    "lon": "35.374237",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دينا حنا ه/المدرسة الابتدائية",
+    "display_name": "دينا حنا ه/المدرسة الابتدائية, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8622140",
+      "32.8623140",
+      "35.3741870",
+      "35.3742870"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.374237,
+        32.862264
+      ]
+    }
+  },
+  {
+    "place_id": 187094264,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803007503,
+    "lat": "32.860753",
+    "lon": "35.357102",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا أ‘/ مدخل",
+    "display_name": "دير حنا أ‘/ مدخل, طريق الجليل, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8607030",
+      "32.8608030",
+      "35.3570520",
+      "35.3571520"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.357102,
+        32.860753
+      ]
+    }
+  },
+  {
+    "place_id": 186195990,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803007593,
+    "lat": "32.861929",
+    "lon": "35.367021",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا/شرطة جماهيرية",
+    "display_name": "دير حنا/شرطة جماهيرية, הגליל, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8618790",
+      "32.8619790",
+      "35.3669710",
+      "35.3670710"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.367021,
+        32.861929
+      ]
+    }
+  },
+  {
+    "place_id": 186538229,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 1803007567,
+    "lat": "32.861238",
+    "lon": "35.358228",
+    "class": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 0.00000999999999995449,
+    "addresstype": "highway",
+    "name": "دير حنا/مخرج",
+    "display_name": "دير حنا/مخرج, طريق الجليل, دير حنا, נפת עכו, מחוז הצפון, 2017600, ישראל",
+    "boundingbox": [
+      "32.8611880",
+      "32.8612880",
+      "35.3581780",
+      "35.3582780"
+    ],
+    "geojson": {
+      "type": "Point",
+      "coordinates": [
+        35.358228,
+        32.861238
+      ]
+    }
+  }
+]
